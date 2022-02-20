@@ -18,7 +18,7 @@ Para executar os exercícios, é necessário baixar ou clonar o repositório. Pa
 
 
 
-**PARA BAIXAR **
+**PARA BAIXAR**:
 
 * Clique no botão verde **Code**
 
